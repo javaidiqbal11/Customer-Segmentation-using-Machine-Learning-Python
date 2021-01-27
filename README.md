@@ -19,7 +19,7 @@ The Notebook is divided in 5 parts as follow:
 5. Building Model \n
 Now we can start !
 
-## Instlation and Execution 
+### Instlation and Execution 
 
 ```
 Install Python 3.6 or above and can use Google Colab 
